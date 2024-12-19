@@ -5,5 +5,5 @@ compatibility_date = "2024-12-17"
 # compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYmMyNDMwOTItMDM1Yi00N2I5LThiNjItODkzMmE3YmI1NzQyIiwidGVuYW50X2lkIjoiNGEzMDc3ZDQxMWY5NjM3Y2ZhOTYwNGU0OTVjM2I0Zjc5ZTA1MjNkNTYyNWQwNDJkOGUyZWEwOThlMjQ0NmUxNyIsImludGVybmFsX3NlY3JldCI6ImIwNDU4N2Q2LTY0MjctNGFlNC05NmE1LTllNzc4NmQ0NDRlNSJ9.3zEQ7HQMYn2zMnjUWMJ3QWg8WrBtj84tUkJsLrUpwew"
-JWT_SECRET="sahih"
+DATABASE_URL=""
+JWT_SECRET=""
